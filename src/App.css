@@ -11,6 +11,9 @@
   margin-right: auto;
 }
 
+.navigation{
+  margin-bottom: 4%;
+}
 .btn{
   border-radius: 12px;
   color: rgba(0, 0, 0, 0.82);
@@ -18,7 +21,6 @@
   font-size: 16px;
   margin: 0.2em;
 }
-
 .btn-primary{
   background: #FBC91B;
   border-color: #FBC91B;
@@ -36,8 +38,7 @@
   border-color: #d6a40d;
   box-shadow: 0 0 0 0.2rem #ffc107b3;
 }
-
 .btn-secondary{
-  background: #F2F2F2;
-  border-color: #F2F2F2;
+  background: #d2d2d2;
+  border-color: #d2d2d2;
 }
