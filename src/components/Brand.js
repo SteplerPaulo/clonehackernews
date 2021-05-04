@@ -3,7 +3,7 @@ import React from "react";
 function Brand() {
     return (
       <React.Fragment> 
-        <div class="brand">
+        <div className="app-logo">
           <img  src="/assets/img/hackernewslogo.png" alt="Hacker News Logo"/>
         </div>
       </React.Fragment>
