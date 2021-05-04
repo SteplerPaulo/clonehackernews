@@ -3,6 +3,7 @@ import './App.css';
 import Brand from './components/Brand.js'
 import Nav from './components/Nav.js'
 import ItemCard from './components/ItemCard.js'
+import Footer from './components/Footer.js'
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
       <Brand/>
       <Nav/>
       <ItemCard/>
+      <Footer/>
     </div>
   );
 }
