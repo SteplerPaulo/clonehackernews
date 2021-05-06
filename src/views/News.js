@@ -58,7 +58,7 @@ function ItemCard() {
                     </button>
                 </div>
             </div>
-            {isLoading ? ( <div>Loading... <i class="fa fa-spinner fa-spin" aria-hidden="true"></i></div>
+            {isLoading ? ( <div>Loading... <i className="fa fa-spinner fa-spin" aria-hidden="true"></i></div>
             ) : (
             data.hits.map(item => (
             <div className="row item-card" key={item.objectID}>
