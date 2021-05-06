@@ -35,7 +35,8 @@ function ItemCard() {
                         value="search" 
                         onClick={(event) => setType(event.target.value)}
                         className="btn btn-secondary" >
-                    Past</button>
+                        Past
+                    </button>
                 </div>
             </div>
             <div className="row search">
