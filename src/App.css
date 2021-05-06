@@ -37,7 +37,7 @@
   background: #FBC91B;
   border-color: #FBC91B;
 }
-.btn-primary:hover{
+.btn-primary:hover,.btn-primary:focus{
   color: #fff;
   background-color: #d6a40d;
   border-color: #d6a40d;
