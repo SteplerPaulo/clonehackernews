@@ -1,1 +1,1 @@
-#CloneHackerNews
+Clone Hacker News
