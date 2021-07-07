@@ -1,4 +1,4 @@
-function Brand() {
+function Header() {
   return (
       <div className="row header">
         <div className="col">
@@ -7,5 +7,5 @@ function Brand() {
       </div>
   );
 }
-export default Brand;
+export default Header;
   
