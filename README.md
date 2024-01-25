@@ -1,5 +1,5 @@
-# HackerNews Clone
-
+# HackerNews Clone 📰
+ 
 This project is a clone of the popular website HackerNews, built using [React](https://reactjs.org/). It allows users to browse through HackerNews stories, view comments, and interact with the community.
 
 ## Features
