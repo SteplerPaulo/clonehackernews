@@ -44,6 +44,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [proexposureph@gmail.com](mailto:proexposureph@gmail.com).
+For any inquiries or feedback, please contact [us](mailto:proexposureph@gmail.com).
 
 Happy browsing with HackerNews Clone! 🚀📰
